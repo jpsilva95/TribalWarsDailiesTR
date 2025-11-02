@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name         Tribal Wars Daily Stats to Discord
+// @namespace    http://tampermonkey.net/
+// @version      1.3
+// @description  Send daily farm and resource stats to Discord webhook
+// @author       TeamRocket
+// @match        https://*.tribalwars.com.pt/game.php*
+// @require      https://raw.githubusercontent.com/jpsilva95/TribalWarsDailiesTR/main/TRDailiesv1.js
+// @updateURL    https://raw.githubusercontent.com/jpsilva95/TribalWarsDailiesTR/main/wrapper.user.js
+// @downloadURL  https://raw.githubusercontent.com/jpsilva95/TribalWarsDailiesTR/main/wrapper.user.js
+// @grant        GM_xmlhttpRequest
+// @connect      discord.com
+// ==/UserScript==
