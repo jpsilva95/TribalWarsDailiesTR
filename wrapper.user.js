@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Tribal Wars Daily Stats to Discord
+// @name         TeamRocket Dailies
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Send daily farm and resource stats to Discord webhook
